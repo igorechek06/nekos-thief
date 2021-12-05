@@ -2,8 +2,8 @@
 
 ## Setup
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ## Run
 
-  python main.py <Number of threads>
+    python main.py <Number of threads>
