@@ -6,4 +6,4 @@
 
 ## Run
 
-    python main.py <Number of threads>
+    python main.py <Number of async tasks>
